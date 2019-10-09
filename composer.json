@@ -1,5 +1,5 @@
 {
-    "name": "openitworks/Tasksmngr",
+    "name": "openitworks/tasksmngr",
     "description": "This package will manage the tasks",
     "type": "composer-plugin",
     "license": "MIT",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "openitworks\\Tasksmngr\\": "src/"
+            "openitworks\\tasksmngr\\": "src/"
         }
     }
 }
