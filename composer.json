@@ -1,7 +1,7 @@
 {
     "name": "openitWorks/tasksmngr",
     "description": "This package will manage the tasks",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
