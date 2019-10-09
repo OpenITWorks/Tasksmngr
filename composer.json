@@ -1,19 +1,19 @@
 {
-    "name": "OpenITWorks/Tasksmngr",
+    "name": "openitworks/Tasksmngr",
     "description": "This package will manage the tasks",
     "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {
-            "name": "MuthukumaranOpenITWorks",
-            "email": "muthu@OpenITWorksworks.in"
+            "name": "Muthukumaranopenitworks",
+            "email": "muthu@openitworksworks.in"
         }
     ],
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
-            "OpenITWorks\\Tasksmngr\\": "src/"
+            "openitworks\\Tasksmngr\\": "src/"
         }
     }
 }
