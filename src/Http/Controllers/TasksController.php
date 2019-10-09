@@ -1,6 +1,6 @@
 <?php
 
-namespace openitworks\tasksmngr\Http\Controllers;
+namespace OpenITWorks\Tasksmngr\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 

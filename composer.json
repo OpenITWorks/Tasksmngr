@@ -1,5 +1,5 @@
 {
-    "name": "openitworks/tasksmngr",
+    "name": "openitWorks/tasksmngr",
     "description": "This package will manage the tasks",
     "type": "composer-plugin",
     "license": "MIT",
@@ -13,7 +13,14 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "openitworks\\tasksmngr\\": "src/"
+            "OpenITWorks\\Tasksmngr\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "OpenITWorks\\Tasksmngr\\TasksmngrServiceProvider"
+            ]
         }
     }
 }
