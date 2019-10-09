@@ -1,6 +1,6 @@
 <?php
 
-namespace OpenItWorks\Tasksmngr;
+namespace OpenITWorks\Tasksmngr;
 
 use illuminate\support\ServiceProvider;
 
